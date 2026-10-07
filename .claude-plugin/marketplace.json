@@ -1,0 +1,6 @@
+{
+  "name": "imagine",
+  "description": "The imagine mod: ChatGPT image generation inside Claude Code",
+  "owner": { "name": "Lucian Roman" },
+  "plugins": [{ "name": "imagine", "source": "./" }]
+}

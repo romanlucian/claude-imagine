@@ -1,0 +1,20 @@
+{
+  "name": "imagine",
+  "version": "0.2.3",
+  "description": "Generate images with your ChatGPT login (through OpenAI's Codex CLI) and add them to your project",
+  "author": {
+    "name": "Lucian Roman"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "codexPath": {
+      "type": "string",
+      "title": "Codex command",
+      "description": "How to run OpenAI's Codex CLI: `codex`, or its full path when Claude Code cannot find it (run `which codex` in a terminal to see it).",
+      "default": "codex"
+    }
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/romanlucian/claude-imagine",
+  "repository": "https://github.com/romanlucian/claude-imagine"
+}
