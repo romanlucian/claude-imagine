@@ -1,5 +1,7 @@
 # imagine: ChatGPT images inside Claude Code
 
+![Imagine: how it works](docs/how-it-works.png)
+
 A [Claude Code](https://code.claude.com) mod that adds an **Imagine** pane and an `/imagine` command:
 
 1. **Log in with ChatGPT.** It uses OpenAI's own Codex CLI, so your ChatGPT plan pays and you need no API key.
